@@ -9,7 +9,7 @@ export const insertImages = async (url) => {
         <figure>
             <img src="${painting["image"]}" alt="">
             <figcaption>${painting["title"]}</figcaption>
-            <p>El autor es: ${painting["author"]}</p>
+            <p>${painting["author"]}</p>
         </figure>
         `
     }
