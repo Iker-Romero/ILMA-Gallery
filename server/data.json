@@ -1,34 +1,34 @@
 {
-    "paintings": [
-        {
-            "title": "Saturno devorando a su hijo",
-            "author": "Francisco de Goya",
-            "image": "./app/images/saturno-hijo"
-        },
-        {
-            "title": "Levantamiento del 2 de Mayo",
-            "author": "Francisco de Goya",
-            "image": "./app/images/levantamiento-2-mayo.jpg"
-        },
-        {
-            "title": "El Aquelarre",
-            "author": "Francisco de Goya",
-            "image": "./app/images/akelarre.jpg"
-        },
-        {
-            "title": "El Quijote",
-            "author": "Gustave Doré",
-            "image": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZG9yZS1xdWl4b3RlLmpwZyIsInJlc2l6ZSw4MDAiXX0.TKP1AwrNIgUNIA1mI55G9_yvVkogWlslkhPLOd7574M.jpg"
-        },
-        {
-            "title": "El entierro de Sara",
-            "author": "Gustave Doré",
-            "image": "./app/images/entierro-sara.jpg"
-        },
-        {
-            "title": "Paraíso perdido",
-            "author": "Gustave Doré",
-            "image": "./app/images/paraiso-perdido.jpg"
-        }
-    ]
+  "paintings": [
+    {
+      "title": "Saturno devorando a su hijo",
+      "author": "Francisco de Goya",
+      "image": "public/images/saturno-hijo"
+    },
+    {
+      "title": "Levantamiento del 2 de Mayo",
+      "author": "Francisco de Goya",
+      "image": "public/images/levantamiento-2-mayo.jpg"
+    },
+    {
+      "title": "El Aquelarre",
+      "author": "Francisco de Goya",
+      "image": "public/images/akelarre.jpg"
+    },
+    {
+      "title": "El Quijote",
+      "author": "Gustave Doré",
+      "image": "public/images/quijote-dore.jpg"
+    },
+    {
+      "title": "El entierro de Sara",
+      "author": "Gustave Doré",
+      "image": "public/images/entierro-sara.jpg"
+    },
+    {
+      "title": "Paraíso perdido",
+      "author": "Gustave Doré",
+      "image": "public/images/paraiso-perdido.jpg"
+    }
+  ]
 }
