@@ -5,5 +5,12 @@
             "author": "Leonardo da Vinci",
             "image": "./images/Monagiocandalisabio.jpg"
         }
+       
+        {
+            "title": "La muerte de Chatterton",
+            "author": "Henry Wallis,",
+            "image": "./images/La-muerte-de-Chatterton.jpg"
+
+        }
     ]
 }
