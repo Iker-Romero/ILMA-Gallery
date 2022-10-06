@@ -17,6 +17,30 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+:root {
+	--primary-color: #f1efe5;
+	--background-color: #182223;
+	--highlight-color: #b29b6c;
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+}
+
+li {
+	list-style: none;
+	font-size: 2rem;
+	font-weight: 800;
+	color: var(--background-color);
+}
+
+body {
+	background-color: var(--background-color);
 }
 
 div {
@@ -31,7 +55,7 @@ figure {
 	display: inline-block;
 	width: 20rem;
 	height: 20rem;
-	background-color: beige;
+	background-color: var(--primary-color);
 }
 
 figure > figcaption,
@@ -43,4 +67,11 @@ img {
 	height: 15rem;
 	width: 100%;
 	object-fit: cover;
+}
+
+nav {
+	background-color: var(--highlight-color);
+	width: 100%;
+	height: 4rem;
+	padding: 1rem;
 }
