@@ -15,5 +15,12 @@
             "author": "József Molnár",
             "image": "./images/Destruction_of_Pompeii_and_Herculaneum.jpeg"
         }
+       
+        {
+            "title": "La muerte de Chatterton",
+            "author": "Henry Wallis,",
+            "image": "./images/La-muerte-de-Chatterton.jpg"
+
+        }
     ]
 }
