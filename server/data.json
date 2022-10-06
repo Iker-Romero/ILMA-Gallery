@@ -29,11 +29,6 @@
             "title": "Paraíso perdido",
             "author": "Gustave Doré",
             "image": "./app/images/paraiso-perdido.jpg"
-        },
-        {
-            "title": "El Quijote",
-            "author": "Gustave Doré",
-            "image": "./app/images/quijote-dore.jpg"
         }
     ]
 }
