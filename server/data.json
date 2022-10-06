@@ -1,19 +1,39 @@
 {
     "paintings": [
         {
-            "title": "La Gioconda",
-            "author": "Leonardo da Vinci",
-            "image": "./images/Monagiocandalisabio.jpg"
+            "title": "Saturno devorando a su hijo",
+            "author": "Francisco de Goya",
+            "image": "./app/images/saturno-hijo"
         },
         {
             "title": "Levantamiento del 2 de Mayo",
             "author": "Francisco de Goya",
-            "image": "./images/levantamiento-2-mayo.jpg"
+            "image": "./app/images/levantamiento-2-mayo.jpg"
         },
         {
-            "title": "Destrucción de Pompeya",
-            "author": "József Molnár",
-            "image": "./images/Destruction_of_Pompeii_and_Herculaneum.jpeg"
+            "title": "El Aquelarre",
+            "author": "Francisco de Goya",
+            "image": "./app/images/akelarre.jpg"
+        },
+        {
+            "title": "El Quijote",
+            "author": "Gustave Doré",
+            "image": "./app/images/quijote-dore.jpg"
+        },
+        {
+            "title": "El entierro de Sara",
+            "author": "Gustave Doré",
+            "image": "./app/images/entierro-sara.jpg"
+        },
+        {
+            "title": "Paraíso perdido",
+            "author": "Gustave Doré",
+            "image": "./app/images/paraiso-perdido.jpg"
+        },
+        {
+            "title": "El Quijote",
+            "author": "Gustave Doré",
+            "image": "./app/images/quijote-dore.jpg"
         }
     ]
 }
