@@ -18,3 +18,29 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+div {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	padding: 1rem;
+	justify-content: space-around;
+}
+
+figure {
+	display: inline-block;
+	width: 20rem;
+	height: 20rem;
+	background-color: beige;
+}
+
+figure > figcaption,
+figure > p {
+	margin: 0.5rem 1rem;
+}
+
+img {
+	height: 15rem;
+	width: 100%;
+	object-fit: cover;
+}
