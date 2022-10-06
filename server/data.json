@@ -1,0 +1,9 @@
+{
+    "paintings": [
+        {
+            "title": "La Gioconda",
+            "author": "Leonardo da Vinci",
+            "image": "./images/Monagiocandalisabio.jpg"
+        }
+    ]
+}
