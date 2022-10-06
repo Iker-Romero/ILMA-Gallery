@@ -4,6 +4,16 @@
             "title": "La Gioconda",
             "author": "Leonardo da Vinci",
             "image": "./images/Monagiocandalisabio.jpg"
+        },
+        {
+            "title": "Levantamiento del 2 de Mayo",
+            "author": "Francisco de Goya",
+            "image": "./images/levantamiento-2-mayo.jpg"
+        },
+        {
+            "title": "Destrucción de Pompeya",
+            "author": "József Molnár",
+            "image": "./images/Destruction_of_Pompeii_and_Herculaneum.jpeg"
         }
     ]
 }
