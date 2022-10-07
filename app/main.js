@@ -4,8 +4,7 @@ import { insertNavbar } from "./Components/insertNavbar/insertNavbar";
 
 const triggerComponents = () => {
   insertNavbar();
-  const paintingsArray = insertImages("http://localhost:3000/paintings");
-  console.log(paintingsArray);
+  insertImages("http://localhost:3000/paintings");
 };
 
 triggerComponents();
